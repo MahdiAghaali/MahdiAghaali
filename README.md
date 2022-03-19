@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiAghaali&theme=algolia" alt="MahdiAghaali" /></p>
+
+[![MahdiAghaali's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=MahdiAghaali&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)]
 <!--
 **MahdiAghaali/MahdiAghaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
