@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![MahdiAghaali's github stats](https://github-readme-stats.MahdiAghaali.vercel.app/api?username=MahdiAghaali&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)]
+
+[![MahdiAghaali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiAghaali&theme=gruvbox)](https://github.com/MahdiAghaali/github-readme-stats)
+<!--
+**MahdiAghaali/MahdiAghaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!--
 **MahdiAghaali/MahdiAghaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
