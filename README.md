@@ -1,7 +1,14 @@
 ### Hello World! 👋
 
+<div align="center">
+  
+![MahdiAghaali's Github Status](https://github-readme-stats.vercel.app/api?username=MahdiAghaali&show_icons=true&theme=gruvbox)
+  
+</div>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/MahdiAghaali/count.svg" />
+</p>
 
-[![MahdiAghaali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiAghaali&theme=gruvbox)](https://github.com/MahdiAghaali/github-readme-stats)
 <!--
 **MahdiAghaali/MahdiAghaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
