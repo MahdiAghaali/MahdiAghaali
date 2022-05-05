@@ -10,9 +10,9 @@
 
 ---
 ### Find me on 
-<a href="https://github.com/MahdiAghaali"><img src="icons/github.png" /> Github</a></br>
-<a href="https://www.linkedin.com/in/mahdi-aghaali-698a96190/"><img src="icons/linkedin.png" /> LinkedIn</a></br>
-<a href="https://www.instagram.com/darkmohi//"><img src="icons/instagram.png" /> Instagram</a></br>
+<a href="https://github.com/MahdiAghaali"><img src="icons/github.png" target="_blank"> Github</a></br>
+<a href="https://www.linkedin.com/in/mahdi-aghaali-698a96190/"><img src="icons/linkedin.png" target="_blank"> LinkedIn</a></br>
+<a href="https://www.instagram.com/darkmohi//"><img src="icons/instagram.png" target="_blank"> Instagram</a></br>
 ---
 ### What I work with
 <a href="https://en.wikipedia.org/wiki/HTML" title="HTML"><img src="icons/HTML.png" /></a>
