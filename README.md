@@ -25,6 +25,7 @@
 <a href="https://visualstudio.microsoft.com//" title="Visual Studio"><img src="icons/VisualStudio.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://jquery.com/" title="jQuery"><img src="icons/jquery.png" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads/" title="Microsoft Sql Server"><img src="icons/SqlServer.png" /></a>
 ---
 ### :fire: My Stats 
 <div align='center'>
