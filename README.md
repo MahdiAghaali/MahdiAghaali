@@ -1,10 +1,8 @@
 ### Hello World! I'm Mahdi Aghaali 👋
 - 🔭 I’m currently studying full stack development using react and rails in Microverse
 - 🎓 I’ve studied software engineering at IAU Central Tehran Branch University.
-- 🌱 I speak Persian🇮🇷, English🇬🇧 and a little bit of French🇫🇷(Loading… ██░░░░░░░░ please wait)
+- 🌱 I speak Persian, English and a little bit of French(Loading… ██░░░░░░░░ please wait)
 - 💬 I'm eager learn new languages (Including Human or Computer languages)
-- 📫 You can usually find me by @darkmohi
-- ⚡ my friends call me mohi (╯°□°)╯︵ ┻━┻
 
   
 
